@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717068359019",
+    "firebase_url": "https://flashchat-7f463.firebaseio.com",
+    "project_id": "flashchat-7f463",
+    "storage_bucket": "flashchat-7f463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717068359019:android:3cd8fc07c60a653e24a82e",
+        "android_client_info": {
+          "package_name": "co.meep123.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717068359019-3h3g1sohckfshakefumt2mtglfcpp813.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYbohoRFaKkFLqxacTM9oLE9TZyhVH1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717068359019-3h3g1sohckfshakefumt2mtglfcpp813.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
